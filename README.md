@@ -258,4 +258,8 @@ I'm genuinely grateful to be experiencing this era of AI.
 
 ## CWK - Wankyu Choi
 
-"Creative Works of Knowledge"  - https://x.com/WankyuChoi
+🔗 "Creative Works of Knowledge"  - https://x.com/WankyuChoi
+
+🔗 My New Website for AI Artworks and Essays: https://creativeworksofknowledge.net
+
+🔗 You can access this repo via my official domain: https://cwkai.net
