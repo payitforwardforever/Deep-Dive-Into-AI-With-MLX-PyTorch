@@ -10,3 +10,5 @@ adapters_working.npz
 *.pdf
 /mlx-examples/whisper/mlx_models/
 /mlx-examples/lora/mlx_model/
+/mlx-examples/lora/adapters.npz
+/mlx-examples/whisper/whisper/assets/mel_filters.npz
