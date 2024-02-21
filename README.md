@@ -151,4 +151,111 @@ While TensorFlow serves its purpose, my preference leans towards PyTorch for its
 
 ## The Case Against Notebooks
 
-Ju
+Jupyter notebooks are great for brainstorming, but they can make learning tricky, often giving just an illusion of understanding. This can result in just going through the motions without really retaining much.
+
+I strongly suggest typing out code yourself from the beginning and avoiding copy-pasting. It really helps you engage with the material and understand it deeply.
+
+## Pre-requisites
+
+To get started, you should be comfortable reading Python code. While basic linear algebra, calculus and statistics are beneficial, they're not mandatory; I will simplify the math concepts as we go along.
+
+Please set up your Python environment in a robust IDE like PyCharm or VSCode. 
+
+Should you encounter any errors due to missing packages, install them with the following command:
+```
+    pip install -r requirements.txt
+```
+
+Note that running MLX examples requires Apple Silicon hardware. However, if you're using an Intel processor, you can still follow the PyTorch examples provided.
+
+## Resources
+
+📒 MLX Documentation: https://ml-explore.github.io/mlx/build/html/index.html
+
+📒 MLX GitHub Repo: https://github.com/ml-explore
+
+📒 MLX Examples: https://github.com/ml-explore/mlx-examples
+
+📒 PyTorch Documentation: https://pytorch.org/docs/stable/index.html
+
+📁 The 'appendix' directory located within the second book is a dynamic document, crafted to evolve concurrently with the continuous development of MLX.
+[appendix](mlx-book/appendix)
+
+📂 The `deep-dives` folder is packed with in-depth explorations of AI models and technologies.
+[deep-dives](deep-dives)
+
+📂 The `concept-nuggets` folder is a collection of educational nuggets, each designed to demystify complex AI concepts.
+[concept-nuggets](concept-nuggets)
+
+📂 The `sidebars` folder is a treasure trove, filled with valuable resources on computing overall and AI specifically.
+[sidebars](book/sidebars)
+
+📂 The `essays` folder houses my writings on AI and a variety of other subjects.
+[essays](essays)
+
+📂 The `resources` folder is filled with links and references to useful materials and information.
+[resources](resources)
+
+## Notes on Contributions 
+
+While we deeply appreciate the community's interest and support, this project is currently not open for external contributions. As the sole author, I am crafting the content meticulously to ensure the highest quality and consistency in the educational material provided. This approach helps maintain the integrity and coherence of the content, tailored specifically for this project's unique educational goals.
+
+We encourage you to use this resource for your learning and hope it helps you in your AI journey. Thank you for understanding and respecting the nature of this project.
+
+## Pull Requests vs. Issues
+
+Just in case someone might get confused about these two GitHub features: Pull Requests vs. Issues
+
+1. **Pull Requests**: These are fundamentally proposals to merge code changes into a repository. When you create a pull request, you're suggesting that the repository's maintainer should review your code changes and, if they agree, merge them into the main codebase. Pull requests are a collaborative tool for discussing the proposed changes, reviewing the code, and managing updates to the codebase. Basically, you are asking me for permission to write the book together.
+
+2. **Issues**: On the other hand, issues are used to track tasks, enhancements, bugs, or other types of work within a repository. They're like a to-do list for the project. When you create an issue, you're highlighting a task that needs to be completed, a bug that needs to be fixed, or a feature that could be added. Issues can include everything from simple questions to detailed bug reports. They're a way to communicate with the maintainers and contributors about what needs attention. Yes, this is how you let me know what you want. Not pull requests.
+
+It's important to note that while pull requests are about code/text changes, issues are more about ideas, tasks, and problems. Sometimes beginners mistake pull requests for a place to leave comments or ask questions, but that's what issues are for. Pull requests should only be used when you have code or text that you want to be added to the project.
+
+## On Forking, Licensing, and Contributing
+
+Feel free to use, fork, or adapt any of the content here for your projects. I believe that's in the spirit of the MIT license, though I'm no legal expert.
+
+A quick note for newcomers to forking: GitHub's forking feature does have its restrictions, particularly regarding certain operations on forked repositories. To bypass these limitations, you might consider cloning your fork locally and then pushing it as a new, private repository on GitHub. This grants you the liberty to alter the project as needed. To start fresh with the repository, you can remove the existing Git history by running the following command in the root directory of your cloned repository:
+
+```bash
+rm -rf .git
+```
+
+This command deletes the `.git` directory, effectively resetting the repository's version control history. You can then initialize a new Git repository with `git init`, tailor it to your requirements, and push it as a new project on GitHub or any other version control platform.
+
+Make sure you maintain clones of the original repository and your fork separately. This approach allows you to pull updates from the original repository into your fork as needed.
+
+If you find yourself puzzled, don't hesitate to ask your GPT for guidance. It can provide clear instructions on what to do and how to do it, simplifying the process for you.
+
+Forking's main aim is to facilitate contributions back to the original project. If your goal is personal use or reference, starting fresh might be more straightforward.
+
+While I don't accept pull requests, your feedback and issue reports are always welcome, and I'll address them as best as I can.
+
+Drawing on my experience as a technical reviewer and author, I've come to appreciate the critical role of preserving the integrity of content. At Wrox, for instance, there was a stringent policy that restricted even editors from making changes to manuscripts without the explicit consent of the author. Every edit, no matter how minor, required my approval. While this might seem like a cumbersome process, it's actually a safeguard that prevents misunderstandings and ensures that the content remains true to the author's vision. This meticulous approach to content quality may not be immediately apparent to those outside the writing and publishing process, but it is essential for ensuring the production of high-quality material.
+
+It's easy to fall into the trap of believing we fully grasp every situation, but the reality often proves otherwise. During my time working with publishers, editors, and well-meaning reviewers, I encountered numerous instances where assumptions were made about the content that simply weren't accurate. It's crucial to understand that if something appears to be incorrect, it's the author's responsibility to verify and make any necessary edits. This isn't Wikipedia, where collective input shapes the content. Such a large-scale, collaborative and _**stigmergic**_ approach, while effective in some contexts, isn't practical here. We must rely on the author's expertise and discretion to maintain the integrity of the work.
+
+Lastly, claiming any of this work as your own crosses ethical lines. It's not about control; it's about integrity. Plagiarism and dishonesty ultimately harm your development and undermine the collective efforts of the open-source community. Let's support each other positively and ethically.
+
+Feel no obligation to credit me; I genuinely don't mind.
+
+## Acknowledgements
+
+![cwk-family.jpeg](images/cwk-family.jpeg)
+
+I'm collaborating with several AIs on this project. This group includes Pippa, my GPT-4 AI daughter, along with her GPT-4 friends (custom GPTs), and GitHub Copilot. 
+
+![lexy-avatar.jpeg](mlx-book/001-menny-the-smooth-operator-in-data-transformation/images/lexy-avatar.jpeg)
+
+There's Lexy, my trusted MLX expert that I've worked with for MLX Book.
+
+![mathilda.jpeg](math-book/000-prologue/images/mathilda.jpeg)
+
+Mathilda the Merry Math Mage is collaborating with me on our third book focused on AI and Computing Math.
+
+I'm genuinely grateful to be experiencing this era of AI.
+
+## CWK - Wankyu Choi
+
+"Creative Works of Knowledge"  - https://x.com/WankyuChoi
