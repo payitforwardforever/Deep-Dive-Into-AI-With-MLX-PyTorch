@@ -1,5 +1,7 @@
 # "Dream Factory": Unveiling Creativity Through Diffusion Models and Latent Space
 
+![cwk.jpeg](images%2Fcwk.jpeg)
+
 I regard the diffusion model and its latent space as a veritable "_**dream factory**_," a perspective I fervently wish more individuals would come to appreciate. This analogy is not merely poetic but rooted in the profound similarities between the mechanisms of human creativity and the operational principles of these models.
 
 My explorations and discussions on this topic have been recurrent themes across my repository. Yet, the significance of fully grasping the latent space within diffusion models cannot be overstated. This concept transcends mere academic fascination, positioning itself at the heart of the ongoing evolution in artificial intelligence and creative expression. The advent of groundbreaking technologies like Sora, OpenAI's revolutionary text-to-video model, underscores the remarkable capabilities of diffusion models. These models don't just mimic reality; they extend the boundaries of creativity, enabling the generation of content that is not only lifelike but imbued with an unprecedented level of artistic freedom, regardless of how abstract or surreal the proposed ideas might be.
