@@ -15,14 +15,13 @@ The first book is a comprehensive guide to AI using PyTorch and MLX, while the s
 
 The third book focuses on math, AI, and the path to enlightenment.
 
-## What's New?
-
 🔗 My New Website for AI Artworks and Essays: https://creativeworksofknowledge.net
 
 Caution: I will be migrating my essays to my new website, where I will also continue to compose new ones, taking into account the recommended storage limit per repository on GitHub.
 
 🔗 You can access this repo via my official domain: https://cwkai.net
 
+## What's New?
 
 🥠 [Concept Nuggets 002 - Understanding Transformers Through the Elden Ring Experience](concept-nuggets/002-transformers/README.md)
 
