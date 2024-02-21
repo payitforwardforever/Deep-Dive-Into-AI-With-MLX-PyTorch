@@ -95,4 +95,6 @@ print("Transformed Idea:", transformed_idea)
 
 In this pseudo-code, `dream_factory` takes the concept of a "dragon that embodies the elements of fire and water" through a series of steps to simplify and refine the idea. Starting with a complex, high-dimensional representation, it moves **_(encodes)_** the idea into a latent space  where it becomes a simplified version focused on the essence of fire and water elements in a dragon. Within this space, the idea is refined and enriched before being **_decoded_** back into reality as a tangible, enriched realization—a dragon that not only represents these elements but does so in a way that is vivid and lifelike.
 
+![irezumi.jpeg](images%2Firezumi.jpeg)
+
 This simplified process mirrors the transformative journey of ideas through diffusion models' latent spaces, showcasing how abstract concepts can be distilled into their core elements, refined, and then expanded into detailed, imaginative creations. By focusing on a dragon, a symbol rich in mythology and imagination, we illustrate the potential of latent spaces as 'dream factories' for innovation and creativity.
