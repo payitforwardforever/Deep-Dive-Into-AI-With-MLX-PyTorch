@@ -23,6 +23,8 @@ Caution: I will be migrating my essays to my new website, where I will also cont
 
 ## What's New?
 
+🥠 [Concept Nuggets 003 - "Dream Factory": Unveiling Creativity Through Diffusion Models and Latent Space](concept-nugget/003-dream-factory-unveiling-creativity-through-diffusion-models-and-latent-space%2FREADME.md)
+
 🥠 [Concept Nuggets 002 - Understanding Transformers Through the Elden Ring Experience](concept-nuggets/002-transformers/README.md)
 
 🥠 [Concept Nuggets 001 - Understanding Diffusion Transformers Through the Dark Souls Experience](concept-nuggets/001-diffusion-transformers/README.md)
