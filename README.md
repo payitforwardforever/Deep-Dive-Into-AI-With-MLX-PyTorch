@@ -23,13 +23,15 @@ Caution: I will be migrating my essays to my new website, where I will also cont
 
 ## What's New?
 
-🥠 [Concept Nuggets 003 - "Dream Factory": Unveiling Creativity Through Diffusion Models and Latent Space](concept-nuggets%2F003-dream-factory-unveiling-creativity-through-diffusion-models-and-latent-space%2FREADME.md)
+🥠 [Concept Nuggets 004 - Pythonic Ways of Doing Things](concept-nuggets/004-pythonic-way/README.md)
+
+🥠 [Concept Nuggets 003 - "Dream Factory": Unveiling Creativity Through Diffusion Models and Latent Space](concept-nuggets/003-dream-factory-unveiling-creativity-through-diffusion-models-and-latent-space/README.md)
 
 🥠 [Concept Nuggets 002 - Understanding Transformers Through the Elden Ring Experience](concept-nuggets/002-transformers/README.md)
 
 🥠 [Concept Nuggets 001 - Understanding Diffusion Transformers Through the Dark Souls Experience](concept-nuggets/001-diffusion-transformers/README.md)
 
-🤿 Deep Dive 18: [Deep Dive in Diffusion Transformers](deep-dives/018-diffusion-transformer%2FREADME.md)
+🤿 Deep Dive 18: [Deep Dive in Diffusion Transformers](deep-dives/018-diffusion-transformer/README.md)
 
 🤿 Deep Dive 17: [Deep Dive in Google's Gemini 1.5](deep-dives/017-google-gemini-1-point-5/README.md)
 
