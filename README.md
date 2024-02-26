@@ -142,7 +142,7 @@ My allegiance lies with knowledge and learning, not with specific brands or comp
 
 So, please, don't label me as a fanboy of anything.
 
-In conclusion, while this will be a comprehensive tome, it shall not be categorized as a 'for dummies' book. Don't remain clueless; make an effort to learn. I'll do everything I can to assist you. 
+In conclusion, while all three books are comprehensive tomes, they are not categorized as 'for dummies' books. Don't remain clueless; make an effort to learn. 
 
 ## Rationale for MLX and PyTorch
 
@@ -197,8 +197,7 @@ Note that running MLX examples requires Apple Silicon hardware. However, if you'
 📂 The `sidebars` folder is a treasure trove, filled with valuable resources on computing overall and AI specifically.
 [sidebars](book/sidebars)
 
-📂 The `essays` folder houses my writings on AI and a variety of other subjects.
-[essays](essays)
+📂 The  ✍️ [Essays](https://creativeworksofknowledge.net/blog) | 🎭️ [Artworks](https://creativeworksofknowledge.net/portfolio) links will direct you to my new website for AI Artworks and Essays.
 
 📂 The `resources` folder is filled with links and references to useful materials and information.
 [resources](resources)
