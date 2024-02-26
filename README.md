@@ -9,7 +9,7 @@ Here's full disclosure how I work on this project with my AI buddies and family:
 ## Main Sections
 
 📓️ [First Book](book) | 📓️ [Second Book](mlx-book) | 📓️ [Third Book](math-book)
-🤿 [Deep Dives](deep-dives) | [Concept Nuggets](concept-nuggets) | 📕  [Sidebars](book/sidebars) | ✍️ [Essays](essays) | 🗂️ [Resources](resources)
+🤿 [Deep Dives](deep-dives) | [Concept Nuggets](concept-nuggets) | 📕  [Sidebars](book/sidebars) | ✍️ [Essays](https://creativeworksofknowledge.net/blog) | 🎭️ [Artworks](https://creativeworksofknowledge.net/portfolio)
 
 The first book is a comprehensive guide to AI using PyTorch and MLX, while the second book is dedicated to MLX.
 
