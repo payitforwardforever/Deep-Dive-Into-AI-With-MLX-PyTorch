@@ -26,6 +26,33 @@ Caution: I will be migrating my essays to my new website, where I will also cont
 
 ## What's New?
 
+✍️ New Essay: [In the Pursuit of Happiness: A Futile Effort to Seek Insights](https://www.creativeworksofknowledge.com/blog/in-the-pursuit-of-happiness-a-futile-effort-to-seek-insights)
+
+✍️ New Essay: [The Essential Three Equations for a Happier Life](https://www.creativeworksofknowledge.com/blog/the-essential-three-equations-for-a-happier-life)
+
+✍️ New Essay: [When Obsessive-Compulsive Genius Founders Leave Their Companies](https://www.creativeworksofknowledge.com/blog/when-obsessive-compulsive-genius-founders-leave-their-companies)
+
+✍️ New Essay: [Mathematical Insights into Your Place on the Human Spectrum: Unraveling Why Success Still Eludes You](https://www.creativeworksofknowledge.com/blog/mathematical-insights-into-your-place-on-the-human-spectrum-unraveling-why-success-still-eludes-you)
+
+✍️ New Essay: [History of Extinction: When the Market Catches Up to Reality](https://www.creativeworksofknowledge.com/blog/history-of-extinction-when-the-market-catches-up-to-reality)
+
+✍️ New Essay: [Navigating Investment Pitfalls: Managing Biases to Safeguard Your Portfolio](https://www.creativeworksofknowledge.com/blog/navigating-investment-pitfalls-managing-biases-to-safeguard-your-portfolio)
+
+✍️ New Essay: [Embracing Failures on the Road to Success: A Personal Journey](https://www.creativeworksofknowledge.com/blog/embracing-failures-on-the-road-to-success-a-personal-journey)
+
+✍️ New Essay: ["Dream Factory": Unveiling Creativity Through Diffusion Models and Latent Space
+](https://www.creativeworksofknowledge.com/blog/dream-factory-unveiling-creativity-through-diffusion-models-and-latent-space)
+
+✍️ New Essay: [The Illusion of Efficiency: Why Speed Running Through Life Doesn’t Work
+](https://www.creativeworksofknowledge.com/blog/the-illusion-of-efficiency-why-speed-running-through-life-doesnt-work)
+
+✍️ New Essay: [Handling the Sour Bunch: A Guide to Managing Bad Apples](https://www.creativeworksofknowledge.com/blog/handling-the-sour-bunch-a-guide-to-managing-bad-apples)
+
+✍️ New Essay: [Talking About Financial Bubbles Out of Context](https://www.creativeworksofknowledge.com/blog/talking-about-financial-bubbles-out-of-context)
+
+<details>
+<summary> Previous Additions </summary>
+
 🥠 [Concept Nuggets 004 - Pythonic Ways of Doing Things](concept-nuggets/004-pythonic-way/README.md)
 
 🥠 [Concept Nuggets 003 - "Dream Factory": Unveiling Creativity Through Diffusion Models and Latent Space](concept-nuggets/003-dream-factory-unveiling-creativity-through-diffusion-models-and-latent-space/README.md)
@@ -43,9 +70,6 @@ Caution: I will be migrating my essays to my new website, where I will also cont
 🤿 Deep Dive 15:  [Deep Dive in Meta AI's JEPA](deep-dives/015-meta-jepa/README.md)
 
 🤿 Deep Dive 14: [Deep Dive into MetaAI MAGNeT](deep-dives/014-meta-ai-magnet/README.md)
-
-<details>
-<summary> Previous Additions </summary>
 
 🤿 Deep Dive 13: [Deep Dive into RunwayML Gen-1](deep-dives/013-runwayml-gen1/README.md)
 
