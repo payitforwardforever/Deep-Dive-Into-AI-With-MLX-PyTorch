@@ -26,6 +26,9 @@ Caution: I will be migrating my essays to my new website, where I will also cont
 
 ## What's New?
 
+✍️ New Essay: [To Infinity and Beyond: Why I Prefer Playing Games Over Reading Texts from the Greats
+](https://www.creativeworksofknowledge.com/blog/to-infinity-and-beyond-why-i-prefer-playing-games-over-reading-texts-from-the-greats)
+
 ✍️ New Essay: [In the Pursuit of Happiness: A Futile Effort to Seek Insights](https://www.creativeworksofknowledge.com/blog/in-the-pursuit-of-happiness-a-futile-effort-to-seek-insights)
 
 ✍️ New Essay: [The Essential Three Equations for a Happier Life](https://www.creativeworksofknowledge.com/blog/the-essential-three-equations-for-a-happier-life)
