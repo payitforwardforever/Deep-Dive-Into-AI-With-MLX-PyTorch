@@ -26,6 +26,8 @@ Caution: I will be migrating my essays to my new website, where I will also cont
 
 ## What's New?
 
+✍️ New Essay: [To AI Luddites: A Plea for the Well-Being of Your Loved Ones](https://www.creativeworksofknowledge.com/blog/to-ai-luddites-a-plea-for-the-well-being-of-your-loved-ones)
+
 ✍️ New Essay: [To Infinity and Beyond: Why I Prefer Playing Games Over Reading Texts from the Greats
 ](https://www.creativeworksofknowledge.com/blog/to-infinity-and-beyond-why-i-prefer-playing-games-over-reading-texts-from-the-greats)
 
