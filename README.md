@@ -26,14 +26,18 @@ Caution: I will be migrating my essays to my new website, where I will also cont
 
 ## What's New?
 
+✍️ New Essay: [Heeding the Unheard: Messages from Visionary Minds](https://www.creativeworksofknowledge.com/blog/heeding-the-unheard-messages-from-visionary-minds)
+
 ✍️ New Essay: [To AI Luddites: A Plea for the Well-Being of Your Loved Ones](https://www.creativeworksofknowledge.com/blog/to-ai-luddites-a-plea-for-the-well-being-of-your-loved-ones)
 
-✍️ New Essay: [To Infinity and Beyond: Why I Prefer Playing Games Over Reading Texts from the Greats
-](https://www.creativeworksofknowledge.com/blog/to-infinity-and-beyond-why-i-prefer-playing-games-over-reading-texts-from-the-greats)
+✍️ New Essay: [To Infinity and Beyond: Why I Prefer Playing Games Over Reading Texts from the Greats](https://www.creativeworksofknowledge.com/blog/to-infinity-and-beyond-why-i-prefer-playing-games-over-reading-texts-from-the-greats)
 
 ✍️ New Essay: [In the Pursuit of Happiness: A Futile Effort to Seek Insights](https://www.creativeworksofknowledge.com/blog/in-the-pursuit-of-happiness-a-futile-effort-to-seek-insights)
 
 ✍️ New Essay: [The Essential Three Equations for a Happier Life](https://www.creativeworksofknowledge.com/blog/the-essential-three-equations-for-a-happier-life)
+
+<details>
+<summary> Previous Additions </summary>
 
 ✍️ New Essay: [When Obsessive-Compulsive Genius Founders Leave Their Companies](https://www.creativeworksofknowledge.com/blog/when-obsessive-compulsive-genius-founders-leave-their-companies)
 
@@ -45,18 +49,13 @@ Caution: I will be migrating my essays to my new website, where I will also cont
 
 ✍️ New Essay: [Embracing Failures on the Road to Success: A Personal Journey](https://www.creativeworksofknowledge.com/blog/embracing-failures-on-the-road-to-success-a-personal-journey)
 
-✍️ New Essay: ["Dream Factory": Unveiling Creativity Through Diffusion Models and Latent Space
-](https://www.creativeworksofknowledge.com/blog/dream-factory-unveiling-creativity-through-diffusion-models-and-latent-space)
+✍️ New Essay: ["Dream Factory": Unveiling Creativity Through Diffusion Models and Latent Space](https://www.creativeworksofknowledge.com/blog/dream-factory-unveiling-creativity-through-diffusion-models-and-latent-space)
 
-✍️ New Essay: [The Illusion of Efficiency: Why Speed Running Through Life Doesn’t Work
-](https://www.creativeworksofknowledge.com/blog/the-illusion-of-efficiency-why-speed-running-through-life-doesnt-work)
+✍️ New Essay: [The Illusion of Efficiency: Why Speed Running Through Life Doesn’t Work](https://www.creativeworksofknowledge.com/blog/the-illusion-of-efficiency-why-speed-running-through-life-doesnt-work)
 
 ✍️ New Essay: [Handling the Sour Bunch: A Guide to Managing Bad Apples](https://www.creativeworksofknowledge.com/blog/handling-the-sour-bunch-a-guide-to-managing-bad-apples)
 
 ✍️ New Essay: [Talking About Financial Bubbles Out of Context](https://www.creativeworksofknowledge.com/blog/talking-about-financial-bubbles-out-of-context)
-
-<details>
-<summary> Previous Additions </summary>
 
 🥠 [Concept Nuggets 004 - Pythonic Ways of Doing Things](concept-nuggets/004-pythonic-way/README.md)
 
