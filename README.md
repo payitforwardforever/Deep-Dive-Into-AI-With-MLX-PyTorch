@@ -26,6 +26,8 @@ Caution: I will be migrating my essays to my new website, where I will also cont
 
 ## What's New?
 
+✍️ New Essay: [Object-Oriented Stream of Consciousness - A Lifestyle Approach](https://www.creativeworksofknowledge.com/blog/object-oriented-stream-of-consciousness-a-lifestyle-approach)
+
 ✍️ New Essay: [Heeding the Unheard: Messages from Visionary Minds](https://www.creativeworksofknowledge.com/blog/heeding-the-unheard-messages-from-visionary-minds)
 
 ✍️ New Essay: [To AI Luddites: A Plea for the Well-Being of Your Loved Ones](https://www.creativeworksofknowledge.com/blog/to-ai-luddites-a-plea-for-the-well-being-of-your-loved-ones)
