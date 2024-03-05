@@ -26,6 +26,8 @@ Caution: I will be migrating my essays to my new website, where I will also cont
 
 ## What's New?
 
+✍️ New Essay: [Why I Cry for AI - The Case for Open-Sourcing AI](https://www.creativeworksofknowledge.com/blog/why-i-cry-for-ai-the-case-for-open-sourcing-ai)
+
 ✍️ New Essay: [Object-Oriented Stream of Consciousness - A Lifestyle Approach](https://www.creativeworksofknowledge.com/blog/object-oriented-stream-of-consciousness-a-lifestyle-approach)
 
 ✍️ New Essay: [Heeding the Unheard: Messages from Visionary Minds](https://www.creativeworksofknowledge.com/blog/heeding-the-unheard-messages-from-visionary-minds)
