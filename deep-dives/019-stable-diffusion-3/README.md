@@ -1,6 +1,6 @@
 # Deep Dive into Stable Diffusion 3
 
-![title-image.png](images%2Ftitle-image.png)
+![title-image.png](images%2Ftitle-image2.png)
 
 🏠 https://stability.ai/news/stable-diffusion-3
 
