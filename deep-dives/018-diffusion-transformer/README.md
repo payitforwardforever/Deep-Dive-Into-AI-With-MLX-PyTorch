@@ -1,4 +1,4 @@
-# Deep Dives into Scalable Diffusion Models with Transformers
+# Deep Dive into Scalable Diffusion Models with Transformers
 
 ![transformer-artist-title.png](images%2Ftransformer-artist-title.png)
 

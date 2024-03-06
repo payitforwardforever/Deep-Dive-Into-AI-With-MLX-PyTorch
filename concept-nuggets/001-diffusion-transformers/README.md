@@ -74,7 +74,7 @@ This duality allows U-Net to perform its magic with exceptional efficiency, maki
 
 _Image-generating AI systems like Stable Diffusion that utilize diffusion models often rely on U-Net as their structural core._
 
-### Bonus Nugget 2 - Frechet Inception Distance (FID): Benchmarking Visual Fidelity
+### Bonus Nugget 2 - Fréchet Inception Distance (FID): Benchmarking Visual Fidelity
 
 In the realm of image generation, evaluating the Frechet Inception Distance (FID) score is akin to determining the fidelity of your Dark Souls journey to the ultimate, intended experience crafted by its creators. This metric serves as a benchmark for realism, where a lower FID score signifies a stronger alignment with the authentic, richly detailed world of the game. It measures the distance between the distribution of generated images and that of original, high-resolution game visuals, capturing both the nuances of texture and the complexity of scenes. Essentially, a low FID indicates that the artificial landscapes, characters, and artifacts created by the AI not only bear a striking resemblance to the game's original artwork but also maintain the atmospheric depth and aesthetic integrity, ensuring that the generated images feel as if they were directly lifted from the game's own mythical universe.
 

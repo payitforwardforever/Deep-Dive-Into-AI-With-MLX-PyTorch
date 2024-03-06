@@ -4,13 +4,15 @@ As we venture deeper into the vast expanse of artificial intelligence, think of 
 
 In this ongoing saga, every `deep dive` we add is like a new adventure, revealing more of AI's boundless potential. Stay tuned for more engaging and insightful deep dives, where we unravel the intricacies of AI models and technologies. Our journey is far from over - it's an ever-growing story of discovery, innovation, and learning. Let's continue to navigate these new frontiers together, embracing each challenge and breakthrough with enthusiasm and curiosity. 🚀🤖📚
 
-🤿 Deep Dive 18: [Deep Dive in Diffusion Transformers](018-diffusion-transformer%2FREADME.md)
+🤿 Deep Dive 19: [Deep Dive into Stable Diffusion 3](019-stable-diffusion-3%2FREADME.md)
 
-🤿 Deep Dive 17: [Deep Dive in Google's Gemini 1.5](017-google-gemini-1-point-5/README.md)
+🤿 Deep Dive 18: [Deep Dive into Diffusion Transformers](018-diffusion-transformer%2FREADME.md)
 
-🤿 Deep Dive 16: [Deep Dive in OpenAI's Sora](016-openai-sora/README.md)
+🤿 Deep Dive 17: [Deep Dive into Google's Gemini 1.5](017-google-gemini-1-point-5/README.md)
 
-🤿 Deep Dive 15: [Deep Dive in Meta AI's JEPA](015-meta-jepa/README.md)
+🤿 Deep Dive 16: [Deep Dive into OpenAI's Sora](016-openai-sora/README.md)
+
+🤿 Deep Dive 15: [Deep Dive into Meta AI's JEPA](015-meta-jepa/README.md)
 
 🤿 Deep Dive 14: [Deep Dive into MetaAI MAGNeT](014-meta-ai-magnet/README.md)
 

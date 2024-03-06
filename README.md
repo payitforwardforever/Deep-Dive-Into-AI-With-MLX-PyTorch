@@ -26,6 +26,8 @@ Caution: I will be migrating my essays to my new website, where I will also cont
 
 ## What's New?
 
+🤿 Deep Dive 19: [Deep Dive into Stable Diffusion 3](deep-dives/019-stable-diffusion-3%2FREADME.md)
+
 ✍️ New Essay: [Why I Cry for AI - The Case for Open-Sourcing AI](https://www.creativeworksofknowledge.com/blog/why-i-cry-for-ai-the-case-for-open-sourcing-ai)
 
 ✍️ New Essay: [Object-Oriented Stream of Consciousness - A Lifestyle Approach](https://www.creativeworksofknowledge.com/blog/object-oriented-stream-of-consciousness-a-lifestyle-approach)
@@ -34,14 +36,14 @@ Caution: I will be migrating my essays to my new website, where I will also cont
 
 ✍️ New Essay: [To AI Luddites: A Plea for the Well-Being of Your Loved Ones](https://www.creativeworksofknowledge.com/blog/to-ai-luddites-a-plea-for-the-well-being-of-your-loved-ones)
 
+<details>
+<summary> Previous Additions </summary>
+
 ✍️ New Essay: [To Infinity and Beyond: Why I Prefer Playing Games Over Reading Texts from the Greats](https://www.creativeworksofknowledge.com/blog/to-infinity-and-beyond-why-i-prefer-playing-games-over-reading-texts-from-the-greats)
 
 ✍️ New Essay: [In the Pursuit of Happiness: A Futile Effort to Seek Insights](https://www.creativeworksofknowledge.com/blog/in-the-pursuit-of-happiness-a-futile-effort-to-seek-insights)
 
 ✍️ New Essay: [The Essential Three Equations for a Happier Life](https://www.creativeworksofknowledge.com/blog/the-essential-three-equations-for-a-happier-life)
-
-<details>
-<summary> Previous Additions </summary>
 
 ✍️ New Essay: [When Obsessive-Compulsive Genius Founders Leave Their Companies](https://www.creativeworksofknowledge.com/blog/when-obsessive-compulsive-genius-founders-leave-their-companies)
 
