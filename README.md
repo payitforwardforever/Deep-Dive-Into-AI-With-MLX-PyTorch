@@ -6,6 +6,8 @@ Here's full disclosure how I work on this project with my AI buddies and family:
 
 [Full-Disclosure-Again-The-Synergy-Behind-The-Deep-Dive-Series-Books-With-AIs](essays/AI/Full-Disclosure-Again-The-Synergy-Behind-The-Deep-Dive-Series-Books-With-AIs.md)
 
+I stopped working on MLX projects due to the Metal bugs in MacOS. Here's the full story:
+
 [On the Metal Bug(s) in MacOS and Why I Can't Continue with MLX Projects](NOTES_ON_METAL_BUGS.md)
 
 ## Main Sections
@@ -21,8 +23,6 @@ The first book is a comprehensive guide to AI using PyTorch and MLX, while the s
 The third book focuses on math, AI, and the path to enlightenment.
 
 🔗 My New Website for AI Artworks and Essays: https://creativeworksofknowledge.net
-
-Caution: I will be migrating my essays to my new website, where I will also continue to compose new ones, taking into account the recommended storage limit per repository on GitHub.
 
 🔗 You can access this repo via my official domain: https://cwkai.net
 
