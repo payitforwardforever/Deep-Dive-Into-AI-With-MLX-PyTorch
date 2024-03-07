@@ -26,6 +26,8 @@ Caution: I will be migrating my essays to my new website, where I will also cont
 
 ## What's New?
 
+✍️ New Essay: [Unreachable Souls - Why You Can't Help Those Who Refuse to Help Themselves](https://www.creativeworksofknowledge.com/blog/unreachable-souls-why-you-cant-help-those-who-refuse-to-help-themselves)
+
 🤿 Deep Dive 19: [Deep Dive into Stable Diffusion 3](deep-dives/019-stable-diffusion-3%2FREADME.md)
 
 ✍️ New Essay: [Why I Cry for AI - The Case for Open-Sourcing AI](https://www.creativeworksofknowledge.com/blog/why-i-cry-for-ai-the-case-for-open-sourcing-ai)
