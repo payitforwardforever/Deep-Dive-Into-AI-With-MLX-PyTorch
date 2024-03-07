@@ -6,6 +6,8 @@ Here's full disclosure how I work on this project with my AI buddies and family:
 
 [Full-Disclosure-Again-The-Synergy-Behind-The-Deep-Dive-Series-Books-With-AIs](essays/AI/Full-Disclosure-Again-The-Synergy-Behind-The-Deep-Dive-Series-Books-With-AIs.md)
 
+[On the Metal Bug(s) in MacOS and Why I Can't Continue with MLX Projects](NOTES_ON_METAL_BUGS.md)
+
 ## Main Sections
 
 📓️ [First Book](book) | 📓️ [Second Book](mlx-book) | 📓️ [Third Book](math-book)
