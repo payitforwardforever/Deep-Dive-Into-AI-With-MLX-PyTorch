@@ -28,6 +28,10 @@ The third book focuses on math, AI, and the path to enlightenment.
 
 ## What's New?
 
+✍️ New Essay: [Crafting Your Own Future of AI and Humanity - The Ultimate Premise of the Universe](https://www.creativeworksofknowledge.com/blog/crafting-your-own-future-of-ai-and-humanity-the-ultimate-premise-of-the-universe)
+
+✍️ New Essay: [The Puppeteers of Wall Street: AI's Grip on Financial Markets](https://www.creativeworksofknowledge.com/blog/the-puppeteers-of-wall-street-ais-grip-on-financial-markets)
+
 ✍️ New Essay: [Unreachable Souls - Why You Can't Help Those Who Refuse to Help Themselves](https://www.creativeworksofknowledge.com/blog/unreachable-souls-why-you-cant-help-those-who-refuse-to-help-themselves)
 
 🤿 Deep Dive 19: [Deep Dive into Stable Diffusion 3](deep-dives/019-stable-diffusion-3%2FREADME.md)
