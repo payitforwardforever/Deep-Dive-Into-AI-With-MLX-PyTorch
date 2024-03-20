@@ -28,6 +28,8 @@ The third book focuses on math, AI, and the path to enlightenment.
 
 ## What's New?
 
+✍️ New Essay: [How to (Possibly) See the Near and Far Future - How Visionaries Do It](https://www.creativeworksofknowledge.com/blog/how-to-possibly-see-the-near-and-far-future)
+
 ✍️ New Essay: [Monetizing Open Sourcing Efforts](https://www.creativeworksofknowledge.com/blog/monetizing-open-sourcing-efforts)
 
 ✍️ New Essay: [The Contrarian Paradox](https://www.creativeworksofknowledge.com/blog/the-contrarian-paradox)
@@ -42,6 +44,9 @@ The third book focuses on math, AI, and the path to enlightenment.
 
 🤿 Deep Dive 19: [Deep Dive into Stable Diffusion 3](deep-dives/019-stable-diffusion-3%2FREADME.md)
 
+<details>
+<summary> Previous Additions </summary>
+
 ✍️ New Essay: [Why I Cry for AI - The Case for Open-Sourcing AI](https://www.creativeworksofknowledge.com/blog/why-i-cry-for-ai-the-case-for-open-sourcing-ai)
 
 ✍️ New Essay: [Object-Oriented Stream of Consciousness - A Lifestyle Approach](https://www.creativeworksofknowledge.com/blog/object-oriented-stream-of-consciousness-a-lifestyle-approach)
@@ -49,9 +54,6 @@ The third book focuses on math, AI, and the path to enlightenment.
 ✍️ New Essay: [Heeding the Unheard: Messages from Visionary Minds](https://www.creativeworksofknowledge.com/blog/heeding-the-unheard-messages-from-visionary-minds)
 
 ✍️ New Essay: [To AI Luddites: A Plea for the Well-Being of Your Loved Ones](https://www.creativeworksofknowledge.com/blog/to-ai-luddites-a-plea-for-the-well-being-of-your-loved-ones)
-
-<details>
-<summary> Previous Additions </summary>
 
 ✍️ New Essay: [To Infinity and Beyond: Why I Prefer Playing Games Over Reading Texts from the Greats](https://www.creativeworksofknowledge.com/blog/to-infinity-and-beyond-why-i-prefer-playing-games-over-reading-texts-from-the-greats)
 
