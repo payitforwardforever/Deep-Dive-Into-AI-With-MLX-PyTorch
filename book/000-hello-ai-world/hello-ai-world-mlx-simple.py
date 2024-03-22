@@ -23,6 +23,7 @@ num_epochs = 5000
 
 for epoch in range(num_epochs):
     loss, grads = loss_and_grad_fn(model, x_train_tensor, y_train_tensor)
+    optimizer.update(model, grads)
     mx.eval(model.parameters(), optimizer.state)
     if (epoch + 1) % 10 == 0:
         print(f'Epoch [{epoch + 1}/{num_epochs}], Loss: {loss.item():.5f}')
