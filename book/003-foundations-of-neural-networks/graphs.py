@@ -24,19 +24,16 @@ plt.figure(figsize=(12, 10))
 plt.subplot(2, 2, 1)
 sns.lineplot(x=x, y=y_linear)
 plt.title('Linear Equation')
-plt.show()
 
 # Quadratic
 plt.subplot(2, 2, 2)
 sns.lineplot(x=x, y=y_quadratic)
 plt.title('Quadratic Equation')
-plt.show()
 
 # Cubic
 plt.subplot(2, 2, 3)
 sns.lineplot(x=x, y=y_cubic)
 plt.title('Cubic Equation')
-plt.show()
 
 # Quartic
 plt.subplot(2, 2, 4)
