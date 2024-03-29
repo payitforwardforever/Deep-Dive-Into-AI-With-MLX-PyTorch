@@ -461,7 +461,7 @@ for epoch in range(100):  # Number of times to iterate over the dataset
 
         # Backward pass and optimization
         optimizer.update(model, grads)
-
+        mx.eval(model.parameters(), optimizer.state)
         print(f"Epoch {epoch}, Loss: {loss.item()}")
 ```
 
