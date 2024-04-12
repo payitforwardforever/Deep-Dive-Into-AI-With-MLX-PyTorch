@@ -143,47 +143,7 @@ print("After eval: ", squared_x)
 
 The same implicit evaluation behavior is observed here as well. When `squared_x` is printed, the computation graph is evaluated, even though `mx.eval()` has not been explicitly called.
 
-#### 3. `mlx.core.simplify` - Deprecated as of MLX 0.10
-
-The `simplify` function optimizes the computation graph for given arrays, allowing for more efficient computation by reusing results and reducing memory consumption.
-
-```python
-import mlx.core as mx
-
-def duplicate_matrix_operations(x):
-    y = x @ x  # Matrix multiplication
-    z = x @ x  # Matrix multiplication again
-    return y + z
-
-x = mx.ones((10, 10))
-
-# Without simplification
-y = duplicate_matrix_operations(x)
-print(y)    # Shows the result of y
-
-# With simplification
-z = duplicate_matrix_operations(x)
-mx.simplify(z)  # Optimizes the graph to compute the matrix multiplication once
-print(z)        # Shows the result of z after simplification
-# array([[20, 20, 20, ..., 20, 20, 20],
-#        [20, 20, 20, ..., 20, 20, 20],
-#        [20, 20, 20, ..., 20, 20, 20],
-#        ...,
-#        [20, 20, 20, ..., 20, 20, 20],
-#        [20, 20, 20, ..., 20, 20, 20],
-#        [20, 20, 20, ..., 20, 20, 20]], dtype=float32)
-# array([[20, 20, 20, ..., 20, 20, 20],
-#        [20, 20, 20, ..., 20, 20, 20],
-#        [20, 20, 20, ..., 20, 20, 20],
-#        ...,
-#        [20, 20, 20, ..., 20, 20, 20],
-#        [20, 20, 20, ..., 20, 20, 20],
-#        [20, 20, 20, ..., 20, 20, 20]], dtype=float32)
-```
-
-I intentionally dropped `mx.eval(z)` this time since it's not needed to trigger the computation. We're printing `z` directly, which implicitly evaluates the computation graph.
-
-In each of these examples, the _mx.eval_ function is used to trigger the computation of the arrays created by the operations (grad, vmap, simplify). The actual results are then examined directly from the evaluated arrays.
+In each of these examples, the _mx.eval_ function is used to trigger the computation of the arrays created by the operations (grad and vmap). The actual results are then examined directly from the evaluated arrays.
 
 ##### Practical Examples
 
