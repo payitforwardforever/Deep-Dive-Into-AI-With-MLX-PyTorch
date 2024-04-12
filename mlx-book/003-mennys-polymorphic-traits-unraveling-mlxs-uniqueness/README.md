@@ -143,7 +143,7 @@ print("After eval: ", squared_x)
 
 The same implicit evaluation behavior is observed here as well. When `squared_x` is printed, the computation graph is evaluated, even though `mx.eval()` has not been explicitly called.
 
-#### 3. `mlx.core.simplify`
+#### 3. `mlx.core.simplify` - Deprecated as of MLX 0.10
 
 The `simplify` function optimizes the computation graph for given arrays, allowing for more efficient computation by reusing results and reducing memory consumption.
 
