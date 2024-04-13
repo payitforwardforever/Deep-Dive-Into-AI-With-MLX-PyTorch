@@ -2,6 +2,8 @@
 ![cover.png](images/cover.png)
 "Deep Dive into AI with MLX and PyTorch" is an educational initiative designed to help anyone interested in AI, specifically in machine learning and deep learning, using Apple's MLX and Meta's PyTorch frameworks.
 
+**Important Final Note:** I'm archiving this repository as of April 13, 2024. I have completed the three books on AI, MLX, and Math, as well as a plethora of in-depth analyses on AI papers. I will keep the repository up for reference, but I won't be updating it. I am moving on to other projects. I hope this repository has been helpful to you. Thank you for your support.
+
 Here's full disclosure how I work on this project with my AI buddies and family: 
 
 [Full-Disclosure-Again-The-Synergy-Behind-The-Deep-Dive-Series-Books-With-AIs](essays/AI/Full-Disclosure-Again-The-Synergy-Behind-The-Deep-Dive-Series-Books-With-AIs.md)
