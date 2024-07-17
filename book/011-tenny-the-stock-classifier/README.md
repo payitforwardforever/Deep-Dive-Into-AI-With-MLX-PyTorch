@@ -211,6 +211,7 @@ The first row contains quarter identifiers and is not a feature. This row should
 #### Features and Labels
 
 Features range from the 2nd row (normalized price) to the 16th row (just before the 'Label' row). The 'Label' row is our target variable for classification. 
+**possible correction - Features range from the 2nd row (normalized price) to the 13th row (just before the 'Label' row). The 'Label' row is our target variable for classification. - if my understanding is correct it is supposed to be 13th row
 
 ```python
 class TennyClassifierDataset(TennyDataset):
